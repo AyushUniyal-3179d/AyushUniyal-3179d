@@ -2,9 +2,6 @@
 
 <img src="https://caps9ule-render.vercel.app/api?type=waving&color=0:0d0030,50:0a0060,100:a855f7&height=180&section=header&text=Ayush%20Uniyal&fontSize=52&fontColor=00ffff&fontAlignY=38&desc=AI/ML%20Engineer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Open%20Source%20Fan&descAlignY=60&descColor=c0e8f0&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Django+Learner;Open+Source+Contributor" />
-
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Creative+Coder+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Fan+%F0%9F%90%B1;Problem+Solver+%F0%9F%94%8D)](https://git.io/typing-svg)
