@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://caps9ule-render.vercel.app/api?type=waving&color=0:0d0030,50:0a0060,100:a855f7&height=180&section=header&text=Ayush%20Uniyal&fontSize=52&fontColor=00ffff&fontAlignY=38&desc=AI/ML%20Engineer%20%E2%80%A2%20Creative%20Coder%20%E2%80%A2%20Open%20Source%20Fan&descAlignY=60&descColor=c0e8f0&animation=fadeIn" width="100%"/>
-
+<img src="https://comicbook.com/wp-content/uploads/sites/4/2025/04/Black-Clover-Asta-Anime.jpg"/>
+<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzl6NWd1cm1ybGYxZTc5bG5iYWEybThwb2V0a3pvbmVoeGpnZjk3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.webp">
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Creative+Coder+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Fan+%F0%9F%90%B1;Problem+Solver+%F0%9F%94%8D)](https://git.io/typing-svg)
@@ -34,14 +34,12 @@
 
 ## 🧑‍💻 About Me
 
-const ayush = {
-  name:       "Ayush Uniyal",
-  location:   "India 🇮🇳",
-  role:       "Full-Stack Developer",
-  focus:      ["Clean Code", "Creative UIs", "Performance"],
-  passion:    "Crafting immersive digital experiences and pushing pixels to their limits.",
-  available:  true,
-};
+- 🔭 Currently working on **AI & Machine Learning Projects**
+- 🌱 Learning **Deep Learning & Model Deployment**
+- 👯 Looking to collaborate on **AI/ML & Django Projects**
+- 🤝 Seeking help with **Deployment & Cloud Hosting**
+- 💬 Ask me about **Python, Machine Learning, Django, Tkinter**
+- 📫 Reach me at: **uniyalsahil22@gmail.com**
 
 <br/>
 
