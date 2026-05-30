@@ -78,7 +78,7 @@ DevOps & Tools
 
 Proficiency at a glance:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nikita17-n/nikita17-n/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushUniyal-3179d/AyushUniyal-3179d/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushUniyal-3179d/AyushUniyal-3179d/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AyushUniyal-3179d/AyushUniyal-3179d/output/pacman-contribution-graph.svg">
 </picture>
