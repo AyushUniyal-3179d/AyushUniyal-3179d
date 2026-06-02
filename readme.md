@@ -2,7 +2,18 @@
 
 <img src="https://comicbook.com/wp-content/uploads/sites/4/2025/04/Black-Clover-Asta-Anime.jpg"/>
 <h1>THIS IS MY PROFILE</h1>
-<img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzl6NWd1cm1ybGYxZTc5bG5iYWEybThwb2V0a3pvbmVoeGpnZjk3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.webp">
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJodW8zMHMwdmw5NGljaGo3ejJxNXI4cGp2Z2x0MnZ0cmdwaXNkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **AI & Machine Learning Projects**
+- 🌱 Learning **Deep Learning & Model Deployment**
+- 👯 Looking to collaborate on **AI/ML & Django Projects**
+- 🤝 Seeking help with **Deployment & Cloud Hosting**
+- 💬 Ask me about **Python, Machine Learning, Django, Tkinter**
+- 📫 Reach me at: **uniyalsahil22@gmail.com**
+
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Creative+Coder+%E2%9C%A8;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Open+Source+Fan+%F0%9F%90%B1;Problem+Solver+%F0%9F%94%8D)](https://git.io/typing-svg)
@@ -33,14 +44,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔭 Currently working on **AI & Machine Learning Projects**
-- 🌱 Learning **Deep Learning & Model Deployment**
-- 👯 Looking to collaborate on **AI/ML & Django Projects**
-- 🤝 Seeking help with **Deployment & Cloud Hosting**
-- 💬 Ask me about **Python, Machine Learning, Django, Tkinter**
-- 📫 Reach me at: **uniyalsahil22@gmail.com**
 
 <br/>
 
