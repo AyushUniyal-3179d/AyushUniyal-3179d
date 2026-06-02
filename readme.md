@@ -1,6 +1,6 @@
 <div align="center">
-<h1>THIS IS MY PROFILE</h1>
-<img src="https://comicbook.com/wp-content/uploads/sites/4/2025/04/Black-Clover-Asta-Anime.jpg"/>
+<h1><b>Yaa that's Me :)</b></h1>
+<img src="https://i.pinimg.com/736x/34/6a/d1/346ad1cb50e92384a1018a4ada72b7db.jpg"/>
 <!-- <h1>THIS IS MY PROFILE</h1> -->
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyanBpanQ5bXF3YzhydGNqdGM3bzJyMDV0am9mbWlsYWlyOHpmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
 
@@ -24,13 +24,13 @@
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=AyushUniyal-3179d&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS&base=0)](https://github.com/AyushUniyal-3179d)
 &nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-ayush%40example.com-00FFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0030)](mailto:ayush@example.com)
+[![Email](https://img.shields.io/badge/EMAIL-uniyalsahil22@gmail.com-00FFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0030)](mailto:ayush@example.com)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AyushUniyal3179)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=firefox-browser&logoColor=black)](https://github.com/AyushUniyal-3179d)
 
