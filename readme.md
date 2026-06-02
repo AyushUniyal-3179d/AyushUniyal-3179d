@@ -2,16 +2,16 @@
 
 <img src="https://comicbook.com/wp-content/uploads/sites/4/2025/04/Black-Clover-Asta-Anime.jpg"/>
 <h1>THIS IS MY PROFILE</h1>
-<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJodW8zMHMwdmw5NGljaGo3ejJxNXI4cGp2Z2x0MnZ0cmdwaXNkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExempyanBpanQ5bXF3YzhydGNqdGM3bzJyMDV0am9mbWlsYWlyOHpmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
 
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working on **AI & Machine Learning Projects**
-- 🌱 Learning **Deep Learning & Model Deployment**
-- 👯 Looking to collaborate on **AI/ML & Django Projects**
-- 🤝 Seeking help with **Deployment & Cloud Hosting**
-- 💬 Ask me about **Python, Machine Learning, Django, Tkinter**
-- 📫 Reach me at: **uniyalsahil22@gmail.com**
+-  🌱 Learning **Deep Learning & Model Deployment**
+-  👯 Looking to collaborate on **AI/ML & Django Projects**
+-  🤝 Seeking help with **Deployment & Cloud Hosting**
+-  💬 Ask me about **Python, Machine Learning, Django, Tkinter**
+-  📫 Reach me at: **uniyalsahil22@gmail.com**
 
 
 <br/>
