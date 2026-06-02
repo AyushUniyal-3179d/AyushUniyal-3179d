@@ -1,5 +1,5 @@
 <div align="center">
-<h1><b>Yaa that's Me :)</b></h1>
+<h1><b>Hiee I'm Ayush Uniyal! 👋 :)</b></h1>
 <img src="https://i.pinimg.com/736x/34/6a/d1/346ad1cb50e92384a1018a4ada72b7db.jpg"/>
 <!-- <h1>THIS IS MY PROFILE</h1> -->
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif">
