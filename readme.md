@@ -4,7 +4,7 @@
 <!-- <h1>THIS IS MY PROFILE</h1> -->
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/3c/84/cd/3c84cdb1e180a46031edaed16e042beb.gif">
 
-<b> 🧑‍💻 About Me</b>
+<b>🧑‍💻 **ABOUT ME**</b>
 
 -  🔭 Currently working on **AI & Machine Learning Projects**
 -  🌱 Learning **Deep Learning & Model Deployment**
